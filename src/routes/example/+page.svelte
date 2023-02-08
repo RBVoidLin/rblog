@@ -9,6 +9,7 @@
   import InfoBox from '$lib/components/info_box.svelte';
 
   import Youtube from '$lib/components/youtube.svelte';
+  import Spotify from '$lib/components/spotify.svelte';
   import Custom from '$custom/custom.svelte';
   const const_variable = 999;
 
@@ -384,6 +385,9 @@ m0 0v40h399900v-40z m100 194v40h399900v-40zm0 0v40h399900v-40z'/></svg></span></
     <p><Video mp4="/example/example2.mp4" id="MP4 Example" /></p>
     <h2 id="youtube"><a href="#youtube">Youtube</a></h2>
     <Youtube id="ZXsQAXx_ao0" />
+
+    <h2 id="spotify"><a href="#spotify">Spotify</a></h2>
+    <Spotify id="6pHcxtpwNOIATrwHCL5WNw" />
 
     <h2 id="custom-svelte-component"><a href="#custom-svelte-component">Custom Svelte Component</a></h2>
     <div class="p4 border-1 shadow-xl rounded-xl border-black dark:border-white overflow-auto">

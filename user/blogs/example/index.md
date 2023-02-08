@@ -12,6 +12,7 @@ tags:
 
 <script lang="ts">
   import Youtube from '$lib/components/youtube.svelte'
+  import Spotify from '$lib/components/spotify.svelte'
   import Custom from '$custom/custom.svelte'
   const const_variable = 999;
 
@@ -167,6 +168,9 @@ Photo by <a href="https://unsplash.com/@willy24?utm_source=unsplash&utm_medium=r
 ## Youtube
 
 <Youtube id="ZXsQAXx_ao0"/>
+
+## Spotify
+<Spotify id="6pHcxtpwNOIATrwHCL5WNw"/>
 
 ## Custom Svelte Component
 

@@ -14,7 +14,7 @@ import SiteCover from '$assets/qwer.webp';
 export const siteConfig: Site.Config = {
   url: 'https://svelte-qwer.vercel.app',
   title: 'RBlog',
-  subtitle: '🚀 QWER - Built using Svelte with ❤',
+  subtitle: '💻Tech 🎸MusicImagization 🚄Travel',
   description: '🚀 QWER - Awesome Blog Starter, Built using Svelte with ❤',
   lang: 'en',
   timeZone: 'Asia/Taipei',
@@ -22,9 +22,9 @@ export const siteConfig: Site.Config = {
   cover: SiteCover,
   author: {
     name: 'RB Lin',
-    status: '🚀',
+    status: '🎞️',
     statusTip:
-      '<a href="https://github.com/kwchang0831/svelte-QWER" rel="external" style="color:#0F0" onMouseOver="this.style.color=\'#0FF\'" onMouseOut="this.style.color=\'#0F0\'" >QWER</a> is Awesome !',
+      '<a href="https://www.youtube.com/watch?v=KYuz4C9yDS8" rel="external" style="color:#4c8181" onMouseOver="this.style.color=\'#a6c0c0\'" onMouseOut="this.style.color=\'#4c8181\'" >2023 北海道Full ver.</a> 全力趕工中 !',
     avatar: Avatar,
     avatar_128: Avatar_128,
     avatar_48_png: Avatar_48_PNG,
@@ -34,7 +34,7 @@ export const siteConfig: Site.Config = {
     website: 'https://github.com/kwchang0831/svelte-QWER',
     github: 'https://github.com/RBVoidLin',
     email: 'rblin@csie.io',
-    bio: `Make Big Goals <br/> Practice makes perfect`,
+    bio: `Make Big Goals <br/> Practice makes perfect!`,
   },
 };
 
@@ -112,12 +112,16 @@ export const navConfig: (DD.Nav | DD.Link)[] = [
     url: '/about',
   },
   {
-    name: 'See Docs 📄',
+    name: 'Tech 💻',
+    url: '/about',
+  },
+  {
+    name: 'MusicImagization 🎸',
     url: 'https://docs-svelte-qwer.vercel.app/',
     rel: 'external',
   },
   {
-    name: 'Get QWER 🚀',
+    name: 'Travel 🚄',
     url: 'https://github.com/kwchang0831/svelte-QWER',
     rel: 'external',
   },
@@ -131,12 +135,16 @@ export const mobilenavConfig: DD.Nav = {
       url: '/about',
     },
     {
-      name: 'See Docs 📄',
+      name: 'Tech 💻',
+      url: '/about',
+    },
+    {
+      name: 'MusicImagilize 🎸',
       url: 'https://docs-svelte-qwer.vercel.app/',
       rel: 'external',
     },
     {
-      name: 'Get QWER 🚀',
+      name: 'Travel 🚄',
       url: 'https://github.com/kwchang0831/svelte-QWER',
       rel: 'external',
     },
