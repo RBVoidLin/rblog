@@ -24,7 +24,7 @@ export const siteConfig: Site.Config = {
     name: 'RB Lin',
     status: '🎞️',
     statusTip:
-      '<a href="https://www.youtube.com/watch?v=KYuz4C9yDS8" rel="external" style="color:#4c8181" onMouseOver="this.style.color=\'#a6c0c0\'" onMouseOut="this.style.color=\'#4c8181\'" >2023 北海道Full ver.</a> 全力趕工中 !',
+      '<a href="https://www.youtube.com/watch?v=KYuz4C9yDS8" target="_blank" rel="external noopener noreferrer" style="color:#4c8181" onMouseOver="this.style.color=\'#a6c0c0\'" onMouseOut="this.style.color=\'#4c8181\'" >2023 北海道Full ver.</a> 全力趕工中 !',
     avatar: Avatar,
     avatar_128: Avatar_128,
     avatar_48_png: Avatar_48_PNG,

@@ -34,6 +34,9 @@ export const processImagePath = (path, slug) => {
     path = join(slug, path);
   }
 
+  // if(slug.startsWith('http')){
+  //   return `${slug}`;
+  // }
   // Internally uses posix style backslashes
   path = path.split(sep).join(posix.sep);
 
