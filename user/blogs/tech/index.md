@@ -138,7 +138,7 @@ OK! 既然決定了就開始申請。 來吧!!! 夢開始的地方
 2. 安裝最新版全域NodeJS
 
    ```sh
-   sudo apt-get install nodejs latest
+   sudo apt-get install -g nodejs latest
    ```
 3. 安裝degit<br/>
    這個套件可以完整複製gits的內容並撇除掉.git的相關結構，保證白白淨淨的到你的local
@@ -149,7 +149,7 @@ OK! 既然決定了就開始申請。 來吧!!! 夢開始的地方
    ```sh
    npm i -g pnpm
    ```   
-5. 安裝QWER<br.>
+5. 安裝QWER<br/>
   <kbd>my-blog</kbd>替換成你想要的資料夾名稱 
    ```sh
    npx degit kwchang0831/svelte-QWER my-blog

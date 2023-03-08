@@ -58,7 +58,6 @@ switch (process.argv[2]) {
         .on('ready', () => {
           dateFolderInited = true;
           log('cyan', '[DATA] Folder - Init. Scan Completed.');
-          console.log("Ready");
           readMetaIntoMemory();
           // // Assuming build was initialized, before calling watch
           // genMetaFiles();

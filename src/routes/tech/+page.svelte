@@ -253,7 +253,7 @@
         <div class="code-block  ">
           <CodeCopy>
             <pre><code
-                class="language-sh">{@html String.raw`<div class="code-line"><div class="code-linenotation"><span class="no-line-number"></span><span class="no-line-diff"></span></div><div class="code-content"><span class="token function">sudo</span> <span class="token function">apt-get</span> <span class="token function">install</span> nodejs latest</div></div>`}</code></pre>
+                class="language-sh">{@html String.raw`<div class="code-line"><div class="code-linenotation"><span class="no-line-number"></span><span class="no-line-diff"></span></div><div class="code-content"><span class="token function">sudo</span> <span class="token function">apt-get</span> <span class="token function">install</span> <span class="token parameter variable">-g</span> nodejs latest</div></div>`}</code></pre>
           </CodeCopy>
         </div>
       </li>
@@ -281,7 +281,8 @@
       </li>
       <li>
         <p>
-          安裝QWER&lt;br.&gt;
+          安裝QWER
+          <br />
           <kbd>my-blog</kbd>
           替換成你想要的資料夾名稱
         </p>

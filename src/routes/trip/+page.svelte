@@ -11,6 +11,13 @@
 
 <Post>
   <article slot="post_content">
-    <p>ssss</p>
+    <InfoBox statusType="tip" statusName="旅遊總覽">
+      <p>
+        這邊會記錄旅遊上的大小事
+        <br />
+        可以在下面的系列文章看看有沒有能幫上忙的
+      </p>
+    </InfoBox>
+    <p><a href="/trip/hokkaido_precaution">2023北海道</a></p>
   </article>
 </Post>

@@ -15,7 +15,7 @@ export const siteConfig: Site.Config = {
   url: 'https://svelte-qwer.vercel.app',
   title: 'RBlog',
   subtitle: '💻Tech 🎸MusicImagization 🚄Travel',
-  description: '🚀 QWER - Awesome Blog Starter, Built using Svelte with ❤',
+  description: '💻Tech 🎸MusicImagization 🚄Travel',
   lang: 'en',
   timeZone: 'Asia/Taipei',
   since: 2022,
@@ -40,7 +40,7 @@ export const siteConfig: Site.Config = {
 
 export const headConfig: Site.Head = {
   // Used for IndieWeb
-  me: ['https://github.com/kwchang0831'],
+  me: ['https://github.com/RBVoidLin'],
   custom: ({ dev }) =>
     dev
       ? [
@@ -108,22 +108,21 @@ export const giscusConfig: Giscus.Config = {
 
 export const navConfig: (DD.Nav | DD.Link)[] = [
   {
-    name: 'About',
-    url: '/about',
+    name: '關於',
+    url: '/',
   },
   {
-    name: 'Tech 💻',
-    url: '/about',
+    name: '科。💻',
+    url: '/tech',
   },
   {
-    name: 'MusicImagization 🎸',
-    url: 'https://docs-svelte-qwer.vercel.app/',
-    rel: 'external',
+    name: '繪。音 🎸',
+    url: '/',
+    
   },
   {
-    name: 'Travel 🚄',
-    url: 'https://github.com/kwchang0831/svelte-QWER',
-    rel: 'external',
+    name: '旅。食 🚄',
+    url: '/trip',
   },
 ];
 
@@ -131,22 +130,21 @@ export const mobilenavConfig: DD.Nav = {
   orientation: 2,
   links: [
     {
-      name: 'About',
-      url: '/about',
+      name: '關於',
+      url: '/',
     },
     {
-      name: 'Tech 💻',
-      url: '/about',
+      name: '科。💻',
+      url: '/tech',
     },
     {
-      name: 'MusicImagilize 🎸',
-      url: 'https://docs-svelte-qwer.vercel.app/',
-      rel: 'external',
+      name: '繪。音 🎸',
+      url: '/',
+      
     },
     {
-      name: 'Travel 🚄',
-      url: 'https://github.com/kwchang0831/svelte-QWER',
-      rel: 'external',
+      name: '旅。食 🚄',
+      url: '/trip',
     },
   ],
 };
