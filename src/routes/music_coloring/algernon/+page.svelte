@@ -28,26 +28,41 @@
         給吸引到
       </p>
     </InfoBox>
-    <h2 id="original-video"><a href="#original-video">Original Video</a></h2>
+    <h2 id="ting1-ting1-kan4-ting1-kan4-kan4"><a href="#ting1-ting1-kan4-ting1-kan4-kan4">聽聽看，聽看看</a></h2>
     <p><Video mp4="/music_coloring/algernon/algernon.mp4" id="アルジャーノン" /></p>
     <h2 id="arujnon"><a href="#arujnon">アルジャーノン(阿爾吉儂)</a></h2>
     <p>
       アルジャーノン(阿爾吉儂) 是為電視劇『夕暮れに、手をつなぐ』(意思是夕暮時分牽起手)
-      所做的主題曲，而歌曲名的靈感取至美國作家丹尼爾·凱斯著作《獻給阿爾吉儂的花束》，而正巧也有在2015年被翻拍成日劇，由帥到掉渣的山下智久擔當男主角
+      所做的主題曲，而命名的靈感取至美國作家丹尼爾·凱斯著作《獻給阿爾吉儂的花束》🌻，正巧也有在2015年被翻拍成日劇，由帥到掉渣的山下智久擔當男主角
       <br />
+      <ImgZoom src="/music_coloring/algernon/algernon.jpg" alt="アルジャーノンに花束を" width="550" height="309" />
       <br />
     </p>
     <p>
-      作品中的阿爾吉儂其實是一隻被注射實驗藥物而變聰明的老鼠，而主角則是一位天生的智能障礙者，因緣際會下被選中為人體實驗品而被注射相同的藥物，這也使得他一夕之間成為智商超群的天才。
+      作品中的阿爾吉儂其實是一隻被注射實驗藥物而變聰明的老鼠🐁，而主角則是一位天生的智能障礙者，因緣際會下被選中為人體實驗品而被注射相同的藥物，這也使得他一夕之間成為智商超群的天才。
       <br />
     </p>
     <p>
       不過心靈層面趕不上智商躍升的後果就是他比以前更不信任他人，此時他也發現藥物的副作用...
-      除了智商退化外甚至不知還剩幾日可活，而這本《獻給阿爾吉儂的花束》其實本身就是一個實驗記錄，刻畫著從一開始的錯字連篇，一天天演變成複雜艱深的詞彙，歷經錯綜複雜的情緒糾結最後再退回當初童稚的語氣...
+      <br />
+      除了智商退化外甚至不知還剩幾日可活，而這本《獻給阿爾吉儂的花束》🌻 其實本身就是一個實驗記錄
+      <br />
+      <ImgZoom src="/music_coloring/algernon/FlowersForAlgernon.jpg" alt="初版封面" width="263" height="380" />
+    </p>
+    <blockquote>
+      <p>
+        <b style="color:#4c8181">
+          刻畫著從一開始的錯字連篇，一天天演變成複雜艱深的詞彙，歷經錯綜複雜的情緒糾結最後再退回當初童稚的語氣...
+        </b>
+      </p>
+    </blockquote>
+    <h2 id="dian3-ping2"><a href="#dian3-ping2">點評</a></h2>
+    <p>
+      <b style="color:#4c8181">即便聽了很多人的解析，我還是很想知道身為作詞/曲本身的n-buna的創作初衷</b>
+      <br />
+      以下節錄了他的看法
       <br />
     </p>
-    <h2 id="dian3-ping2"><a href="#dian3-ping2">點評</a></h2>
-    <p>n-bana對這首歌的評價如下</p>
     <div class="code-block  ">
       <CodeCopy>
         <pre><code>{@html String.raw`<div class="code-line"><div class="code-linenotation"><span class="no-line-number"></span><span class="no-line-diff"></span></div><div class="code-content">箱の中に迷路がある。</div></div><div class="code-line"><div class="code-linenotation"><span class="no-line-number"></span><span class="no-line-diff"></span></div><div class="code-content">途方もなく複雑に入り組んだ道を貴方は歩いていく。</div></div><div class="code-line"><div class="code-linenotation"><span class="no-line-number"></span><span class="no-line-diff"></span></div><div class="code-content"></div></div><div class="code-line"><div class="code-linenotation"><span class="no-line-number"></span><span class="no-line-diff"></span></div><div class="code-content">壁の向こう側に何かがあると信じて止まらず</div></div><div class="code-line"><div class="code-linenotation"><span class="no-line-number"></span><span class="no-line-diff"></span></div><div class="code-content">時折道に迷いながらもただ出口へと進み続ける。</div></div><div class="code-line"><div class="code-linenotation"><span class="no-line-number"></span><span class="no-line-diff"></span></div><div class="code-content">その姿が僕には少し眩しい。</div></div><div class="code-line"><div class="code-linenotation"><span class="no-line-number"></span><span class="no-line-diff"></span></div><div class="code-content"></div></div><div class="code-line"><div class="code-linenotation"><span class="no-line-number"></span><span class="no-line-diff"></span></div><div class="code-content">そういう曲です。</div></div>`}</code></pre>
@@ -56,30 +71,58 @@
     <p>
       意思大概是
       <br />
-      盒子裡面有一個迷宮。
+      這是一個處在
+      <b style="color:#4c8181">箱庭的迷宮</b>
       <br />
-      你走在一條極其複雜和錯綜複雜的道路上。
+      你走在一條極其複雜和
+      <b style="color:#4c8181">錯綜複雜的路上</b>
+      <br />
       <br />
       我無法停止相信牆的另一邊有東西
       <br />
-      儘管我有時會迷路，但我只是一直往出口走。
+      即便偶爾會迷路，我還是
+      <b style="color:#4c8181">持續的向出口前進</b>
       <br />
-      就是那種歌。
+      而這樣的身姿似乎對我太過於耀眼
+      <br />
+      <br />
+      就是這麼一首歌。
       <br />
     </p>
     <h2 id="xiao3-jie2"><a href="#xiao3-jie2">小結</a></h2>
-    <p>
-      作者在《獻給阿爾吉儂的花束》一書中，拋出了一個從未有人釐清的問題：智慧與幸福能否兼得？
-      <br />
-      到底是追求平凡的幸福還是承擔擁有智慧後的責任，就像n-buna說的，我們都在這錯綜複雜的情緒中不斷糾結著。
-      <br />
-      不過回頭看看，說不定就會發現愛你的人
-      <br />
-      所以不管有甚麼困難，平靜地等待吧，慢慢的改變，就像那緩緩膨脹的麵包
-      <br />
-      這就是為甚麼我們能繼續向前邁進而不用擔心這長長的迷宮
-      <br />
-    </p>
+    <blockquote>
+      <p>
+        作者在《獻給阿爾吉儂的花束》一書結尾，拋出了一個從未有人釐清的問題：
+        <code class="inline-code-block">智慧與幸福能否兼得？</code>
+        <br />
+        到底是追求平凡的幸福還是承擔擁有智慧後的責任，或許就像n-buna說的，我們都在這
+        <b style="color:#dd3e43">錯綜複雜的情緒</b>
+        中不斷糾結著。
+        <br />
+        不過回頭看看，說不定就會發現愛你的人
+        <br />
+        所以不管有甚麼困難，平靜地等待吧，
+        <b style="color:#dd3e43">慢慢的改變，就像那緩緩膨脹的麵包</b>
+        <br />
+        這就是為甚麼我們能
+        <b style="color:#dd3e43">繼續向前邁進</b>
+        而不用擔心這
+        <b style="color:#dd3e43">長長的迷宮</b>
+        <br />
+      </p>
+    </blockquote>
+    <h2 id="zhu3-wei3-jia1-ma3-shi2-jian1"><a href="#zhu3-wei3-jia1-ma3-shi2-jian1">主委加碼時間</a></h2>
+    <h3 id="youtube"><a href="#youtube">Youtube</a></h3>
+    <blockquote>
+      <p>
+        YT有時候會因瀏覽權限的關係導致只能在YT上才能觀看...
+        <br />
+        所以去吧 ~ 是時候該Say goodbye了 👋
+      </p>
+    </blockquote>
+    <Youtube id="5v5CjaTDuOk" />
+
+    <h3 id="spotify"><a href="#spotify">Spotify</a></h3>
     <Spotify id="0L1E2JmrZk6QU9261PtJWQ" />
   </article>
 </Post>
