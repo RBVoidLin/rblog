@@ -31,18 +31,19 @@ coverCaption: Illustrated by <a href="#">RB Lin</a> using <a href="https://procr
 
 ## アルジャーノン(阿爾吉儂)
 アルジャーノン(阿爾吉儂) 是為電視劇『夕暮れに、手をつなぐ』(意思是夕暮時分牽起手) 所做的主題曲，而命名的靈感取至美國作家丹尼爾·凱斯著作《獻給阿爾吉儂的花束》🌻，正巧也有在2015年被翻拍成日劇，由帥到掉渣的山下智久擔當男主角<br/>
-![アルジャーノンに花束を](/music_coloring/algernon/algernon.jpg)
-<br/>
 
 <ImgZoom src="/music_coloring/algernon/algernon.jpg" alt="Example1" class="h-full object-cover" width="550" height="309">
-Photo by <a href="https://unsplash.com/@willy24?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ioana Tabarcea</a> on <a href="https://unsplash.com/s/photos/morning?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+Photo by <a href="https://www.tbs.co.jp/algernon2015/" target="_blank">アルジャーノンに花束を</a> on <a href="https://www.tbs.co.jp/" target="_blank">TBS Japan</a>
 </ImgZoom>
 
 作品中的阿爾吉儂其實是一隻被注射實驗藥物而變聰明的老鼠🐁，而主角則是一位天生的智能障礙者，因緣際會下被選中為人體實驗品而被注射相同的藥物，這也使得他一夕之間成為智商超群的天才。<br/>
 
 不過心靈層面趕不上智商躍升的後果就是他比以前更不信任他人，此時他也發現藥物的副作用...<br/>
 除了智商退化外甚至不知還剩幾日可活，而這本《獻給阿爾吉儂的花束》🌻 其實本身就是一個實驗記錄<br/>
-![初版封面](/music_coloring/algernon/FlowersForAlgernon.jpg)
+
+<ImgZoom src="/music_coloring/algernon/FlowersForAlgernon.jpg" alt="Example1" class="h-full object-cover" width="263" height="380">
+初版封面  on <a href="https://zh.wikipedia.org/zh-tw/%E7%8D%BB%E7%B5%A6%E9%98%BF%E7%88%BE%E5%90%89%E5%84%82%E7%9A%84%E8%8A%B1%E6%9D%9F" target="_blank">Flowers For Algernon</a>
+</ImgZoom>
 
 > <b style="color:#4c8181">刻畫著從一開始的錯字連篇，一天天演變成複雜艱深的詞彙，歷經錯綜複雜的情緒糾結最後再退回當初童稚的語氣...</b>
 

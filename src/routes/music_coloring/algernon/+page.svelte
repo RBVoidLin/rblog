@@ -36,8 +36,6 @@
       アルジャーノン(阿爾吉儂) 是為電視劇『夕暮れに、手をつなぐ』(意思是夕暮時分牽起手)
       所做的主題曲，而命名的靈感取至美國作家丹尼爾·凱斯著作《獻給阿爾吉儂的花束》🌻，正巧也有在2015年被翻拍成日劇，由帥到掉渣的山下智久擔當男主角
       <br />
-      <ImgZoom src="/music_coloring/algernon/algernon.jpg" alt="アルジャーノンに花束を" width="550" height="309" />
-      <br />
     </p>
     <ImgZoom
       src="/music_coloring/algernon/algernon.jpg"
@@ -45,15 +43,9 @@
       class="h-full object-cover"
       width="550"
       height="309">
-      Photo by <a
-        href="https://unsplash.com/@willy24?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">
-        Ioana Tabarcea
-      </a>
+      Photo by <a href="https://www.tbs.co.jp/algernon2015/" target="_blank">アルジャーノンに花束を</a>
       on
-      <a
-        href="https://unsplash.com/s/photos/morning?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">
-        Unsplash
-      </a>
+      <a href="https://www.tbs.co.jp/" target="_blank">TBS Japan</a>
     </ImgZoom>
 
     <p>
@@ -65,8 +57,20 @@
       <br />
       除了智商退化外甚至不知還剩幾日可活，而這本《獻給阿爾吉儂的花束》🌻 其實本身就是一個實驗記錄
       <br />
-      <ImgZoom src="/music_coloring/algernon/FlowersForAlgernon.jpg" alt="初版封面" width="263" height="380" />
     </p>
+    <ImgZoom
+      src="/music_coloring/algernon/FlowersForAlgernon.jpg"
+      alt="Example1"
+      class="h-full object-cover"
+      width="263"
+      height="380">
+      初版封面 on <a
+        href="https://zh.wikipedia.org/zh-tw/%E7%8D%BB%E7%B5%A6%E9%98%BF%E7%88%BE%E5%90%89%E5%84%82%E7%9A%84%E8%8A%B1%E6%9D%9F"
+        target="_blank">
+        Flowers For Algernon
+      </a>
+    </ImgZoom>
+
     <blockquote>
       <p>
         <b style="color:#4c8181">
