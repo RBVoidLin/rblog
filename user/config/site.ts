@@ -117,7 +117,7 @@ export const navConfig: (DD.Nav | DD.Link)[] = [
   },
   {
     name: '繪。音 🎸',
-    url: '/',
+    url: '/music_coloring',
     
   },
   {
@@ -139,7 +139,7 @@ export const mobilenavConfig: DD.Nav = {
     },
     {
       name: '繪。音 🎸',
-      url: '/',
+      url: '/music_coloring',
       
     },
     {

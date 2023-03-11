@@ -8,6 +8,9 @@ cover: ./cover.png
 series_tag: Music-Coloring
 series_title: アルジャーノン
 coverCaption: Illustrated by <a href="#">RB Lin</a> using <a href="https://procreate.com/" target="_blank">Procreate</a>
+tags:
+  - []
+  
 ---
 
 <script lang="ts">

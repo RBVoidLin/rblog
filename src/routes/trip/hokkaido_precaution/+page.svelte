@@ -11,7 +11,7 @@
 
 <Post>
   <article slot="post_content">
-    <h2 id="welcome"><a href="#welcome">🗽 Welcome</a></h2>
+    <h2 id="welcome"><a href="#welcome">⛩️ Welcome</a></h2>
     <h5>作為北海道系列文章的第一彈</h5>
     <h5>本系列文章會以親身經歷的觀點提供旅遊大小事的建議，希望能幫助到你</h5>
 

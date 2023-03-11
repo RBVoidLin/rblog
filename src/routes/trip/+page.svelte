@@ -18,8 +18,22 @@
         如果下面有你想要去or正要去的地方
         <br />
         可以看看我整理的小重點，說不定能幫上忙喔
+        <br />
+        <br />
+        除此之外還會放放吃吃ㄏㄏ跑跑跳跳聽聽畫畫的紀錄，繞去其他頁籤看看吧
+        <br />
+        可以利用首頁上面的🔍或旁邊的
+        <kbd>tag</kbd>
+        🏷️找找有沒有能幫上忙的東西
+        <br />
       </p>
     </InfoBox>
-    <p><a href="/trip/hokkaido_precaution">2023北海道</a></p>
+    <h4>
+      <a href="/trip/hokkaido_precaution"><b style="color:#4c8181">2023北海道</b></a>
+      ⛩️
+    </h4>
+    <ImgZoom src="/trip/hokkaido_page.webp" alt="北海道神宮" class="h-full object-cover">
+      RB at <a href="https://goo.gl/maps/rgxG3pNAQSkDXied6" target="_blank">北海道神宮</a>
+    </ImgZoom>
   </article>
 </Post>
