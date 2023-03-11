@@ -28,6 +28,7 @@ coverCaption: Illustrated by <a href="#">RB Lin</a> using <a href="https://procr
 :::
 ## 聽聽看，聽看看
 ![アルジャーノン](/music_coloring/algernon/algernon.mp4)
+<Youtube id="dMGhEiYRoZE"/>
 
 ## アルジャーノン(阿爾吉儂)
 アルジャーノン(阿爾吉儂) 是為電視劇『夕暮れに、手をつなぐ』(意思是夕暮時分牽起手) 所做的主題曲，而命名的靈感取至美國作家丹尼爾·凱斯著作《獻給阿爾吉儂的花束》🌻，正巧也有在2015年被翻拍成日劇，由帥到掉渣的山下智久擔當男主角<br/>
@@ -75,10 +76,14 @@ coverCaption: Illustrated by <a href="#">RB Lin</a> using <a href="https://procr
 
 ## 主委加碼時間
 ### Youtube
-> YT有時候會因瀏覽權限的關係導致只能在YT上才能觀看...<br/>
-所以去吧 ~ 是時候該Say goodbye了 👋
+:::info 小提醒
+YT有時候會因瀏覽權限的關係導致只能在YT上才能觀看...<br/>
+遇到這種時候就動動手指點擊<u>在YouTube上觀看</u>
+:::
 
 <Youtube id="5v5CjaTDuOk"/>
 
 ### Spotify
 <Spotify id="0L1E2JmrZk6QU9261PtJWQ"/>
+
+是時候該Say goodbye了 👋 感謝你的收看

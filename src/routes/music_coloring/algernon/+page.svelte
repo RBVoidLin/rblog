@@ -29,7 +29,10 @@
       </p>
     </InfoBox>
     <h2 id="ting1-ting1-kan4-ting1-kan4-kan4"><a href="#ting1-ting1-kan4-ting1-kan4-kan4">聽聽看，聽看看</a></h2>
-    <p><Video mp4="/music_coloring/algernon/algernon.mp4" id="アルジャーノン" /></p>
+    <p>
+      <Video mp4="/music_coloring/algernon/algernon.mp4" id="アルジャーノン" />
+      <Youtube id="dMGhEiYRoZE" />
+    </p>
     <h2 id="arujnon"><a href="#arujnon">アルジャーノン(阿爾吉儂)</a></h2>
     <p>
       アルジャーノン(阿爾吉儂) 是為電視劇『夕暮れに、手をつなぐ』(意思是夕暮時分牽起手)
@@ -113,16 +116,19 @@
     </blockquote>
     <h2 id="zhu3-wei3-jia1-ma3-shi2-jian1"><a href="#zhu3-wei3-jia1-ma3-shi2-jian1">主委加碼時間</a></h2>
     <h3 id="youtube"><a href="#youtube">Youtube</a></h3>
-    <blockquote>
+    <InfoBox statusType="info" statusName="小提醒">
       <p>
         YT有時候會因瀏覽權限的關係導致只能在YT上才能觀看...
         <br />
-        所以去吧 ~ 是時候該Say goodbye了 👋
+        遇到這種時候就動動手指點擊
+        <u>在YouTube上觀看</u>
       </p>
-    </blockquote>
+    </InfoBox>
     <Youtube id="5v5CjaTDuOk" />
 
     <h3 id="spotify"><a href="#spotify">Spotify</a></h3>
     <Spotify id="0L1E2JmrZk6QU9261PtJWQ" />
+
+    <p>是時候該Say goodbye了 👋 感謝你的收看</p>
   </article>
 </Post>
