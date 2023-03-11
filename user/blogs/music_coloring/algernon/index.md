@@ -27,13 +27,16 @@ coverCaption: Illustrated by <a href="#">RB Lin</a> using <a href="https://procr
 在YT蝦晃的時候，被這一小段[插入曲](https://www.youtube.com/watch?v=gidpDOWNLpI)給吸引到
 :::
 ## 聽聽看，聽看看
-![アルジャーノン](/music_coloring/algernon/algernon.mp4)
 <Youtube id="dMGhEiYRoZE"/>
 
 ## アルジャーノン(阿爾吉儂)
 アルジャーノン(阿爾吉儂) 是為電視劇『夕暮れに、手をつなぐ』(意思是夕暮時分牽起手) 所做的主題曲，而命名的靈感取至美國作家丹尼爾·凱斯著作《獻給阿爾吉儂的花束》🌻，正巧也有在2015年被翻拍成日劇，由帥到掉渣的山下智久擔當男主角<br/>
 ![アルジャーノンに花束を](/music_coloring/algernon/algernon.jpg)
 <br/>
+
+<ImgZoom src="/music_coloring/algernon/algernon.jpg" alt="Example1" class="h-full object-cover" width="550" height="309">
+Photo by <a href="https://unsplash.com/@willy24?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ioana Tabarcea</a> on <a href="https://unsplash.com/s/photos/morning?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+</ImgZoom>
 
 作品中的阿爾吉儂其實是一隻被注射實驗藥物而變聰明的老鼠🐁，而主角則是一位天生的智能障礙者，因緣際會下被選中為人體實驗品而被注射相同的藥物，這也使得他一夕之間成為智商超群的天才。<br/>
 

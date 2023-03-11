@@ -29,10 +29,8 @@
       </p>
     </InfoBox>
     <h2 id="ting1-ting1-kan4-ting1-kan4-kan4"><a href="#ting1-ting1-kan4-ting1-kan4-kan4">聽聽看，聽看看</a></h2>
-    <p>
-      <Video mp4="/music_coloring/algernon/algernon.mp4" id="アルジャーノン" />
-      <Youtube id="dMGhEiYRoZE" />
-    </p>
+    <Youtube id="dMGhEiYRoZE" />
+
     <h2 id="arujnon"><a href="#arujnon">アルジャーノン(阿爾吉儂)</a></h2>
     <p>
       アルジャーノン(阿爾吉儂) 是為電視劇『夕暮れに、手をつなぐ』(意思是夕暮時分牽起手)
@@ -41,6 +39,23 @@
       <ImgZoom src="/music_coloring/algernon/algernon.jpg" alt="アルジャーノンに花束を" width="550" height="309" />
       <br />
     </p>
+    <ImgZoom
+      src="/music_coloring/algernon/algernon.jpg"
+      alt="Example1"
+      class="h-full object-cover"
+      width="550"
+      height="309">
+      Photo by <a
+        href="https://unsplash.com/@willy24?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">
+        Ioana Tabarcea
+      </a>
+      on
+      <a
+        href="https://unsplash.com/s/photos/morning?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">
+        Unsplash
+      </a>
+    </ImgZoom>
+
     <p>
       作品中的阿爾吉儂其實是一隻被注射實驗藥物而變聰明的老鼠🐁，而主角則是一位天生的智能障礙者，因緣際會下被選中為人體實驗品而被注射相同的藥物，這也使得他一夕之間成為智商超群的天才。
       <br />
