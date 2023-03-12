@@ -9,7 +9,7 @@ series_tag: 北海道
 series_title: 東防西防篇
 coverCaption: Photo by <a href="#">RB Lin</a> at <a href="https://goo.gl/maps/8wLYahS1kRpyMTsQA" target="_blank">新千歳空港</a>
 tags:
-  - [HOKKAIDO]
+  - []
 ---
 
 ## ⛩️ Welcome

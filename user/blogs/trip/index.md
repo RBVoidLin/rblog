@@ -21,7 +21,7 @@ tags:
 :::
 
 
-<h4><a href="/trip/hokkaido_precaution"><b style="color:#4c8181">2023北海道</b></a>⛩️</h4>
-<ImgZoom src="/trip/hokkaido_page.webp" alt="北海道神宮" class="h-full object-cover">
+<h4>⛩️<a href="/trip/hokkaido_precaution"><b style="color:#4c8181">2023北海道</b></a>👉</h4>
+<ImgZoom src="/trip/hokkaido_page.webp" alt="北海道神宮" class="h-full object-cover" width="500">
 RB  at <a href="https://goo.gl/maps/rgxG3pNAQSkDXied6" target="_blank">北海道神宮</a>
 </ImgZoom>

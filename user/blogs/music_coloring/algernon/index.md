@@ -45,7 +45,7 @@ Photo by <a href="https://www.tbs.co.jp/algernon2015/" target="_blank">アルジ
 除了智商退化外甚至不知還剩幾日可活，而這本《獻給阿爾吉儂的花束》🌻 其實本身就是一個實驗記錄<br/>
 
 <ImgZoom src="/music_coloring/algernon/FlowersForAlgernon.jpg" alt="Example1" class="h-full object-cover" width="263" height="380">
-初版封面  on <a href="https://zh.wikipedia.org/zh-tw/%E7%8D%BB%E7%B5%A6%E9%98%BF%E7%88%BE%E5%90%89%E5%84%82%E7%9A%84%E8%8A%B1%E6%9D%9F" target="_blank">Flowers For Algernon</a>
+初版封面  of <a href="https://zh.wikipedia.org/zh-tw/%E7%8D%BB%E7%B5%A6%E9%98%BF%E7%88%BE%E5%90%89%E5%84%82%E7%9A%84%E8%8A%B1%E6%9D%9F" target="_blank">Flowers For Algernon</a>
 </ImgZoom>
 
 > <b style="color:#4c8181">刻畫著從一開始的錯字連篇，一天天演變成複雜艱深的詞彙，歷經錯綜複雜的情緒糾結最後再退回當初童稚的語氣...</b>

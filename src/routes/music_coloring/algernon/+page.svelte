@@ -64,7 +64,7 @@
       class="h-full object-cover"
       width="263"
       height="380">
-      初版封面 on <a
+      初版封面 of <a
         href="https://zh.wikipedia.org/zh-tw/%E7%8D%BB%E7%B5%A6%E9%98%BF%E7%88%BE%E5%90%89%E5%84%82%E7%9A%84%E8%8A%B1%E6%9D%9F"
         target="_blank">
         Flowers For Algernon
