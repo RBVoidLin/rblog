@@ -50,12 +50,17 @@
       但也會比較貴
       <br />
       當然你想要更炫泡的中文域名也自然是沒問題
-      <ImgZoom src="/tech/first_post/namecheap.webp" alt="Example1" width="1412" height="1166" />
-      <br />
+      <ImgZoom src="/tech/first_post/namecheap.webp" alt="namecheap" class="h-full object-cover" width="500" />
     </p>
+    <br />
+
     <p>
       接著只要拿出魔法小卡施法一下就可以進入DashBoard頁面管理域名了
-      <ImgZoom src="/tech/first_post/namecheap_manage.webp" alt="Namecheap_manage" width="1348" height="908" />
+      <ImgZoom
+        src="/tech/first_post/namecheap_manage.webp"
+        alt="Namecheap_manage"
+        class="h-full object-cover"
+        width="500" />
     </p>
     <h2 id="shen1-qing3-zhu3-ji1"><a href="#shen1-qing3-zhu3-ji1">申請主機</a></h2>
     <blockquote>
@@ -90,7 +95,7 @@
       <br />
       OK! 既然決定了就開始申請。 來吧!!! 夢開始的地方
       <a href="https://www.oracle.com/cloud/free/" rel="external">OCI free VPS 申請入口</a>
-      <ImgZoom src="/tech/first_post/OCI.webp" alt="OCI" width="1367" height="490" />
+      <ImgZoom src="/tech/first_post/OCI.webp" alt="OCI" class="h-full object-cover" width="500" />
     </p>
     <p>
       從上面的
@@ -163,7 +168,7 @@
     </ol>
     <p>
       <Video mp4="/tech/first_post/choose_shape.mp4" id="choose_shape" />
-      <ImgZoom src="/tech/first_post/vps_all.webp" alt="OCI_Get_Started" width="1956" height="4079" />
+      <ImgZoom src="/tech/first_post/vps_all.webp" alt="OCI_Get_Started" class="h-full object-cover" width="500" />
     </p>
     <p>
       完成上述的操作後按下
@@ -185,7 +190,7 @@
       <br />
       先來看看目前的成果吧! 我們可以觀察目前vps的狀態及相關資訊，其中可以先把public IP記起來，等等登入就會用到了
       <br />
-      <ImgZoom src="/tech/first_post/vps_status.webp" alt="VPS_status" width="2553" height="1049" />
+      <ImgZoom src="/tech/first_post/vps_status.webp" alt="VPS_status" class="h-full object-cover" width="500" />
     </p>
     <p>
       剩下就把private key透過 PuTTY Key Generator轉換成putty能看懂的.ppk格式就可以登入了
@@ -196,8 +201,11 @@
         下載並開啟PuTTY Key Generator <kbd>→</kbd>
         替換ppk file version to 2
         <kbd>→</kbd>
-        load and save to .ppk file
-        <ImgZoom src="/tech/first_post/putty_key_gen.webp" alt="Putty_Key_Gen" width="602" height="471" />
+        load and save to .ppk file<ImgZoom
+          src="/tech/first_post/putty_key_gen.webp"
+          alt="Putty_Key_Gen"
+          class="h-full object-cover"
+          width="500" />
       </li>
       <li>
         輸入剛剛提到的public IP <kbd>→</kbd>
@@ -205,14 +213,15 @@
         <kbd>→</kbd>
         點選
         <kbd>Open</kbd>
-        進行連線
-        <ImgZoom src="/tech/first_post/putty_login.webp" alt="Putty_Login" width="555" height="561" />
+        進行連線<ImgZoom
+          src="/tech/first_post/putty_login.webp"
+          alt="PuttPutty_Login_OK"
+          class="h-full object-cover"
+          width="500" />
+        🎉🎉🎉 終於成功登入惹🎉🎉🎉
+        <ImgZoom src="/tech/first_post/putty_ok.png" alt="Putty_OK" class="h-full object-cover" width="500" />
       </li>
     </ul>
-    <p>
-      🎉🎉🎉 終於成功登入惹🎉🎉🎉
-      <ImgZoom src="/tech/first_post/putty_ok.png" alt="Putty_OK" width="657" height="463" />
-    </p>
     <h2 id="bu4-shu3-bu4-luo4-ge2"><a href="#bu4-shu3-bu4-luo4-ge2">部署部落格</a></h2>
     <p>
       這是我在GITHUB PAGES尋尋覓覓時發現的好料
@@ -229,7 +238,7 @@
       <p><a href="https://github.com/kwchang0831/svelte-QWER" rel="external">QWER</a></p>
       <p>
         使用 SvelteKit 與 ❤ 打造的部落格生成器，簡單好用，好評推廣中。
-        <ImgZoom src="/tech/first_post/preview.webp" alt="QWER" width="1305" height="1087" />
+        <ImgZoom src="/tech/first_post/preview.webp" alt="QWER" class="h-full object-cover" width="500" />
       </p>
     </InfoBox>
     <h3 id="shi4-qian2-zhun3-bei4"><a href="#shi4-qian2-zhun3-bei4">事前準備</a></h3>
@@ -332,7 +341,7 @@
       <br />
       今天就先醬吧 感謝看到這裡的你妳尼泥...你逆.?
     </p>
-    <ImgZoom src="/tech/first_post/hatori.jpg" alt="Example1" class="h-full object-cover">
+    <ImgZoom src="/tech/first_post/hatori.jpg" alt="尼逆" class="h-full object-cover">
       Illustrated by <a href="https://www.instagram.com/bye_chicken_78/" target="_blank">公雞先生</a>
     </ImgZoom>
   </article>

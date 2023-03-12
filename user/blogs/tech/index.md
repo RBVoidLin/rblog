@@ -1,5 +1,5 @@
 ---
-title: 總攬 - 有關技術的酷東西都在這裡
+title: 總覽 - 有關技術的酷東西都在這裡
 description: Home page of tech posts
 summary: 跟技術有關的東西都會在這裡
 published: '2022-12-26T00:00:00.000+08:00'

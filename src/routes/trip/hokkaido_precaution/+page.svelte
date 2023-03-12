@@ -88,11 +88,20 @@
         </blockquote>
       </li>
     </ul>
-    <InfoBox statusType="tip" statusName="小常識">
+    <InfoBox statusType="info" statusName="小常識">
       <p>
         北海道當地也有販售平價雪靴的店家，等等會報吼哩災
         <br />
         不過雪靴在台灣好像就比較無用武之地了😅
+      </p>
+    </InfoBox>
+    <InfoBox statusType="tip" statusName="小觀察">
+      <p>
+        在北海道路上偶爾會看這種長的像郵筒的裝置
+        <br />
+        裏頭其實就是沙袋，可以讓你撒在雪路上，增加摩擦力避免滑倒
+        <br />
+        <ImgZoom src="/trip/hokkaido_precaution/sand_bag.jpg" alt="sand_bag" class="h-full object-cover" width="500" />
       </p>
     </InfoBox>
     <ul>
@@ -106,7 +115,7 @@
         </blockquote>
       </li>
     </ul>
-    <InfoBox statusType="info" statusName="小觀察">
+    <InfoBox statusType="tip" statusName="小觀察">
       <p>
         在北海道，我一路上看到有8成以上的日本人都會穿The North Face
         <br />
@@ -149,8 +158,18 @@
         <br />
       </li>
     </ol>
-    <InfoBox statusType="tip" statusName="小常識">
-      <p>一般日本常見的衣著品牌，其實在北海道都會出特別款，主要是針對當地氣候推出保暖透氣+排汗的兼容版，</p>
+    <InfoBox statusType="info" statusName="小常識">
+      <p>
+        一般日本常見的衣著品牌，其實在北海道都會出特別款，主要是針對當地氣候推出保暖透氣+排汗的兼容版
+        <br />
+        例如像下面這款
+        <kbd>PeaceFitWarm</kbd>
+        <ImgZoom
+          src="/trip/hokkaido_precaution/peace_fit_warm.webp"
+          alt="peace_fit_warm"
+          class="h-full object-cover"
+          width="500" />
+      </p>
     </InfoBox>
     <h2 id="fang2-shuai1"><a href="#fang2-shuai1">🥽 防摔</a></h2>
     <blockquote>

@@ -93,18 +93,19 @@ export const dateConfig: Site.DateConfig = {
 export const giscusConfig: Giscus.Config = {
   enable: true,
   id: 'giscus-comment',
-  repo: import.meta.env.QWER_GISCUS_REPO,
-  repoId: import.meta.env.QWER_GISCUS_REPO_ID,
-  category: import.meta.env.QWER_GISCUS_CATEGORY,
-  categoryId: import.meta.env.QWER_GISCUS_CATEGORY_ID,
+  repo: 'RBVoidLin/rblog',                     //import.meta.env.QWER_GISCUS_REPO,
+  repoId: 'R_kgDOJHAHOg',                      //import.meta.env.QWER_GISCUS_REPO_ID,
+  category: 'all',                             //import.meta.env.QWER_GISCUS_CATEGORY,
+  categoryId: 'all',                           //import.meta.env.QWER_GISCUS_CATEGORY_ID,
   mapping: 'pathname',
   reactionsEnabled: '1',
   emitMetadata: '0',
-  inputPosition: 'top',
+  inputPosition: 'bottom',
   loading: 'lazy',
   lang: 'en',
   'data-strict': '0',
 };
+
 
 export const navConfig: (DD.Nav | DD.Link)[] = [
   {

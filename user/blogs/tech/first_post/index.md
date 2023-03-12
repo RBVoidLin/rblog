@@ -40,11 +40,13 @@ Welcome! <br/>
 
 我這邊是選擇 namecheap 他們家的服務，通常越短的名子越好記~~廢話~~但也會比較貴<br/>
 當然你想要更炫泡的中文域名也自然是沒問題
-![Example1](/tech/first_post/namecheap.webp)
+<ImgZoom src="/tech/first_post/namecheap.webp" alt="namecheap" class="h-full object-cover" width="500"/>
+
 <br/>
 
 接著只要拿出魔法小卡施法一下就可以進入DashBoard頁面管理域名了
-![Namecheap_manage](/tech/first_post/namecheap_manage.webp)
+<ImgZoom src="/tech/first_post/namecheap_manage.webp" alt="Namecheap_manage" class="h-full object-cover" width="500"/>
+
 
 
 ## 申請主機
@@ -63,7 +65,8 @@ CPU Arm Ampere A1 `4 OCPU` 、 `24GB` 記憶體 、`200GB`儲存空間 及 每�
 挖屋~這種規格如果換作是一般付費的VPS也是要 500 NTD/月 以上了<br/>
 OK! 既然決定了就開始申請。 來吧!!! 夢開始的地方
 [OCI free VPS 申請入口](https://www.oracle.com/cloud/free/)
-![OCI](/tech/first_post/OCI.webp)
+<ImgZoom src="/tech/first_post/OCI.webp" alt="OCI" class="h-full object-cover" width="500"/>
+
 
 從上面的<kbd>Start for free</kbd>Button開始你的旅程，下方條列了一些可能碰到的狀況及解決方法<br/>
 
@@ -91,7 +94,8 @@ OK! 既然決定了就開始申請。 來吧!!! 夢開始的地方
 > 這個步驟也很重要喔!! OCI VPS僅提供ssh登入，沒把key存好到時登不進去就GG惹
 
 ![choose_shape](/tech/first_post/choose_shape.mp4)
-![OCI_Get_Started](/tech/first_post/vps_all.webp)
+<ImgZoom src="/tech/first_post/vps_all.webp" alt="OCI_Get_Started" class="h-full object-cover" width="500"/>
+
 
 
 完成上述的操作後按下<kbd>Create</kbd> <br/>
@@ -103,16 +107,15 @@ OK! 既然決定了就開始申請。 來吧!!! 夢開始的地方
 ### Putty登入設定
 天啊! 恭喜熬過最靠賽的階段<br/>
 先來看看目前的成果吧! 我們可以觀察目前vps的狀態及相關資訊，其中可以先把public IP記起來，等等登入就會用到了<br/>
-![VPS_status](/tech/first_post/vps_status.webp)
+<ImgZoom src="/tech/first_post/vps_status.webp" alt="VPS_status" class="h-full object-cover" width="500"/>
 
 剩下就把private key透過 PuTTY Key Generator轉換成putty能看懂的.ppk格式就可以登入了<br/>
 - 下載並開啟PuTTY Key Generator <kbd>→</kbd> 替換ppk file version to 2 <kbd>→</kbd> load and save to .ppk file
-![Putty_Key_Gen](/tech/first_post/putty_key_gen.webp)
+<ImgZoom src="/tech/first_post/putty_key_gen.webp" alt="Putty_Key_Gen" class="h-full object-cover" width="500"/>
 - 輸入剛剛提到的public IP <kbd>→</kbd> 在Auth載入剛剛生成的.ppk <kbd>→</kbd> 點選<kbd>Open</kbd>進行連線
-![Putty_Login](/tech/first_post/putty_login.webp)
-
+<ImgZoom src="/tech/first_post/putty_login.webp" alt="PuttPutty_Login_OK" class="h-full object-cover" width="500"/>
 🎉🎉🎉 終於成功登入惹🎉🎉🎉
-![Putty_OK](/tech/first_post/putty_ok.png)
+<ImgZoom src="/tech/first_post/putty_ok.png" alt="Putty_OK" class="h-full object-cover" width="500"/>
 
 ## 部署部落格
 這是我在GITHUB PAGES尋尋覓覓時發現的好料<br/>
@@ -125,7 +128,7 @@ OK! 既然決定了就開始申請。 來吧!!! 夢開始的地方
 [QWER](https://github.com/kwchang0831/svelte-QWER)
 
 使用 SvelteKit 與 ❤ 打造的部落格生成器，簡單好用，好評推廣中。
-![QWER](/tech/first_post/preview.webp)
+<ImgZoom src="/tech/first_post/preview.webp" alt="QWER" class="h-full object-cover" width="500"/>
 :::
 ### 事前準備
 又要準備了又要準備了$#^%^&#$%$<br/>
@@ -177,6 +180,6 @@ OK! 既然決定了就開始申請。 來吧!!! 夢開始的地方
 今天就先醬吧
 感謝看到這裡的你妳尼泥...你逆.?
 
-<ImgZoom src="/tech/first_post/hatori.jpg" alt="Example1" class="h-full object-cover">
+<ImgZoom src="/tech/first_post/hatori.jpg" alt="尼逆" class="h-full object-cover">
 Illustrated by <a href="https://www.instagram.com/bye_chicken_78/" target="_blank">公雞先生</a>
 </ImgZoom>

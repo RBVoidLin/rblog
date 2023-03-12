@@ -52,16 +52,23 @@ tags:
 當然防滑也是要顧一下的，真的怕也是可以額外買個防滑貼片貼在鞋底<br/>
 > 知名的牌子包括TimberLand (踢不爛) , Palladium... 等，就看各自的取捨了
 
-:::tip 小常識
+:::info 小常識
 北海道當地也有販售平價雪靴的店家，等等會報吼哩災<br/>
 不過雪靴在台灣好像就比較無用武之地了😅
+:::
+
+:::tip 小觀察
+在北海道路上偶爾會看這種長的像郵筒的裝置<br/>
+裏頭其實就是沙袋，可以讓你撒在雪路上，增加摩擦力避免滑倒<br/>
+<ImgZoom src="/trip/hokkaido_precaution/sand_bag.jpg" alt="sand_bag" class="h-full object-cover" width="500"/>
+
 :::
 
 - 長版大衣🧥 : 比起一般的外套，長版大衣更能保護你的褲子及襪子免於滲雪的窘境
 > 這部分一樣是見仁見智，個人覺得不用買到GORE-Tex的等級，一般UNIQLO的長版羽絨衣就很夠用了
 當然想穿The North Face or Columbia等級的也是沒問題
 
-:::info 小觀察
+:::tip 小觀察
 在北海道，我一路上看到有8成以上的日本人都會穿The North Face<br/>
 讓我一度以為北臉在北海道很便宜，不過看了一下價格果然還是好尊貴<br/>
 可能是北海道長年冰天雪地，所以這種錢省不得吧...?
@@ -80,8 +87,10 @@ tags:
 3. 中層 : 這個就可以根據個人需求取選擇，我是直接拿自己原本就有的帽T<br/>
 4. 羽絨外套/大衣 : 這邊當然也有賣，不過感覺女生的款式比較齊全<br/>
 
-:::tip 小常識
-一般日本常見的衣著品牌，其實在北海道都會出特別款，主要是針對當地氣候推出保暖透氣+排汗的兼容版，
+:::info 小常識
+一般日本常見的衣著品牌，其實在北海道都會出特別款，主要是針對當地氣候推出保暖透氣+排汗的兼容版<br/>
+例如像下面這款<kbd>PeaceFitWarm</kbd>
+<ImgZoom src="/trip/hokkaido_precaution/peace_fit_warm.webp" alt="peace_fit_warm" class="h-full object-cover" width="500"/>
 :::
 
 
